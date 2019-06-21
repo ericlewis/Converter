@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SFSafeSymbols",
+        "repositoryURL": "https://github.com/piknotech/SFSafeSymbols",
+        "state": {
+          "branch": null,
+          "revision": "a797dc668c9d31ab811df6b34100875481dd1696",
+          "version": "0.3.0"
+        }
+      },
+      {
+        "package": "SplitView",
+        "repositoryURL": "https://github.com/a2/SplitView",
+        "state": {
+          "branch": "master",
+          "revision": "811372347db2868dae7eb3921ce7847ca6761029",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
